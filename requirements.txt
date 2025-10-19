@@ -2,8 +2,12 @@ streamlit
 openai
 langchain
 langchain-community
+langchain-openai
+langchain-text-splitters
+duckduckgo-search
 faiss-cpu
-PyPDF2
-requests
+tiktoken
 python-dotenv
+PyPDF2
 google-search-results
+
