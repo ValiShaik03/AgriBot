@@ -119,7 +119,7 @@ streamlit run app.py
 ## 🖼️ Project Preview
 
 HomePage<br>
-![CuraBot Homepage](https://github.com/ValiShaik03/CuraBot/blob/d417bea099f5fc0050eb9a6fd2659523b928fc86/screenshots/home.png) <br>
+![AgriAssist Homepage](https://github.com/ValiShaik03/AgriBot/blob/7db9c3de9ab67ae6370319739146b5049ac8f7fd/output/output1.png) <br>
 SignUpPage
 ![CuraBot signuppage](https://github.com/ValiShaik03/CuraBot/blob/d417bea099f5fc0050eb9a6fd2659523b928fc86/screenshots/signup.png)<br>
 LogInPage
