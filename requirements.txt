@@ -1,8 +1,8 @@
+streamlit
+openai
 langchain
 langchain-community
 faiss-cpu
-openai
-streamlit
 PyPDF2
 requests
 python-dotenv
