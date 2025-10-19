@@ -1,5 +1,12 @@
 # 🌾 AgriAssist — Smart Farming Chatbot
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg) ![Streamlit](https://img.shields.io/badge/Streamlit-1.29.0-orange.svg)![License](https://img.shields.io/badge/License-MIT-green.svg) [![SerpAPI](https://img.shields.io/badge/SerpAPI-Active-blue?logo=google&logoColor=white)](https://serpapi.com/)
+[![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-Integrated-orange?logo=duckduckgo&logoColor=white)](https://duckduckgo.com/)
+
+## **Live Demo**
+Try AgriAssist directly on **Streamlit Cloud**:  
+[🌾 Launch AgriAssist on Streamlit Cloud](https://smartfarmer.streamlit.app)
+
 **AI-powered advice for farmers and agri-students**
 
 ---
@@ -122,3 +129,17 @@ HomePage<br>
 ![AgriAssist Homepage](https://github.com/ValiShaik03/AgriBot/blob/7db9c3de9ab67ae6370319739146b5049ac8f7fd/output/output1.png) <br>
 AgriAssist_Output
 ![AgriAssist_Output](https://github.com/ValiShaik03/AgriBot/blob/98163f148728a9cf4d9e7e62d793d8694c1e5db7/output/output2.png)
+
+## **Acknowledgements**
+
+We would like to express our gratitude to the following:
+
+- OpenAI for providing powerful language models that enable context-aware responses.
+
+- LangChain and langchain-community for their seamless tools for document embeddings and RAG workflows.
+
+- DuckDuckGo and SerpAPI for allowing us to integrate live web search capabilities to fetch up-to-date agricultural information.
+
+- Streamlit for providing an intuitive and interactive framework to build the web application.
+
+- Agricultural experts and online resources that inspired the content structure and best practices incorporated in AgriAssist.
