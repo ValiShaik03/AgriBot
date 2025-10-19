@@ -1,7 +1,7 @@
-from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain_community.document_loaders import PyPDFLoader
 from langchain_openai import OpenAIEmbeddings
 from langchain_community.vectorstores import FAISS
+from langchain_text_splitters import RecursiveCharacterTextSplitter
+from langchain_community.document_loaders import PyPDFLoader
 
 def create_vector_store(uploaded_pdf):
     try:
@@ -21,5 +21,6 @@ def get_pdf_context(query):
         return f"Relevant PDF context for: {query}"
     except Exception as e:
         return f"Error retrieving PDF context: {e}"
+
 
 
